@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "======================= Docker Remover ========================"
+echo "========== Docker Installer (Recomended for k8s) =============="
 echo "=============== Author 0xMSherby( TH3Captin ) ================="
 echo ""
 echo "[+] 1.Update the apt package index"
