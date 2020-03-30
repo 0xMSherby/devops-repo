@@ -1,1 +1,11 @@
-appVersion: 
+appVersion: v1
+kind: Pod
+metadata:
+ name: myapp-pod # The name of the pod
+ labels:
+  app: myapp # the app that pod it serve
+  type: front-end # type of this pod to have a clear work
+spec: # pod specifications
+ containers:
+  - name: nginx-container
+    image: nginx
