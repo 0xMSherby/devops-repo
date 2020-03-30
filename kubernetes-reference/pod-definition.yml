@@ -1,3 +1,5 @@
+# the command to make a pod from this file is 
+# $ kubectl create -f pod-definition.yml
 appVersion: v1
 kind: Pod
 metadata:
