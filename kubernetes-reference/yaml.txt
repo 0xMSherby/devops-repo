@@ -19,3 +19,25 @@ Vegetables:
 - Cauliflower
 - Tomato
 
+==================
+=  Dictionary    =
+==================
+Banana:
+ Calories: 20
+ Fat: 20
+ Carbs: 20
+Orange:
+ Calories: 10
+ Fat: 15
+ Carbs: 11
+========================
+= List of dictionaries =
+========================
+Fruits:
+- Banana:
+   Carbs: 10
+   Fat: 20
+- Apple:
+   Carbs: 20
+   Fat: 20
+ 
