@@ -1,0 +1,21 @@
+==================
+= key value pair =
+==================
+
+Fruit: Apple
+Vegetable: Carrot
+Liquid: Water
+Meat: Chicken
+
+==================
+=  Array / List  =
+==================
+Fruits:
+- Orange
+- Apple
+- Banana
+Vegetables:
+- Carrot
+- Cauliflower
+- Tomato
+
