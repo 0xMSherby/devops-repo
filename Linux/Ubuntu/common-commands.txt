@@ -1,2 +1,0 @@
-[1] To open ports for ssh in firewall you can use
-$ sudo ufw allow ssh

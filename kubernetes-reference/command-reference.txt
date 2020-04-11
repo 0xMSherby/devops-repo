@@ -1,5 +1,0 @@
-[+] Get all pods
-$ kubectl get pods
-
-[+] get details about pod
-$ kubectl describe pod [pod-name]
